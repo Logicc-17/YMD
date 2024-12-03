@@ -1,2 +1,15 @@
-# YMD
-hustles
+# 💫 About Me:
+### Hi there! 👋 Welcome to my GitHub profile!<br><br>I'm [Your Name], a curious-minded developer who loves exploring tech and breaking things (so I can fix them even better)! 😄 Currently, I'm a third-year Network Security student 🕵️‍♂️🔐, and I've dabbled in areas ranging from machine learning to cryptography. Here, you'll find my coding experiments, projects, and maybe even a few surprise bugs! 🐞<br><br>**🔎 What I’m up to:**<br>- 🚀 Building an anime streaming website (yes, I take binge-watching seriously 🍿)<br>- 🤖 Exploring data science by scraping, cleaning, and training models<br>- 🔐 Diving deep into security concepts and creating real-world challenges<br><br>**💡 Fun Facts:**<br>- I can dedicate four hours straight to problem-solving but don't ask me to pick a favorite programming language… they're all fun in their own way! 🚀<br>- I’m studying TLS, VPNs, and firewalls, and still, I’ve never actually watched *Mr. Robot* 😅<br><br>**🛠️ Skill Set:**<br>- **Languages & Tools:** Python, SQL, PHP, Jupyter Notebook, Assembly, Networking Tools<br>- **Current Focus:** Machine learning, secure web apps, data security practices<br>- **Other Skills:** Brawlhalla fan with a knack for choosing unarmed characters like Val and Vraxx (no axe? No problem!)<br><br>**📬 Let’s Connect!**<br>If you're into tech, anime, or just curious about data science, feel free to reach out or fork one of my projects! Cheers to learning and building cool stuff together!<br><br>*P.S. I'm currently watching *One Piece*, but no spoilers, please! 🏴‍☠️*<br>
+
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yokaii&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yokaii&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokaii&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Yokaii&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
